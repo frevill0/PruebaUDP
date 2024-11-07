@@ -1,0 +1,96 @@
+
+=== resultado del cuestionario ===
+fecha: 2024-11-07 14:57:28
+ip cliente: 127.0.0.1
+
+pregunta 1: Cual es la capital de Francia?
+respuesta del cliente: paris
+respuesta correcta: Paris
+estado: correcta
+
+pregunta 2: Cuanto es 2 + 2?
+respuesta del cliente: 4
+respuesta correcta: 4
+estado: correcta
+
+pregunta 3: De que color es el cielo?
+respuesta del cliente: azul
+respuesta correcta: azul
+estado: correcta
+
+pregunta 4: En que continente esta Peru?
+respuesta del cliente: america
+respuesta correcta: america
+estado: correcta
+
+pregunta 5: Cual es el rio mas largo del mundo?
+respuesta del cliente: amazonas
+respuesta correcta: amazonas
+estado: correcta
+
+puntaje final: 20 de 20
+================================
+
+=== resultado del cuestionario ===
+fecha: 2024-11-07 14:57:29
+ip cliente: 127.0.0.1
+
+pregunta 1: Cual es la capital de Francia?
+respuesta del cliente: paris
+respuesta correcta: Paris
+estado: correcta
+
+pregunta 2: Cuanto es 2 + 2?
+respuesta del cliente: 5
+respuesta correcta: 4
+estado: incorrecta
+
+pregunta 3: De que color es el cielo?
+respuesta del cliente: verde
+respuesta correcta: azul
+estado: incorrecta
+
+pregunta 4: En que continente esta Peru?
+respuesta del cliente: rusia
+respuesta correcta: america
+estado: incorrecta
+
+pregunta 5: Cual es el rio mas largo del mundo?
+respuesta del cliente: nilo
+respuesta correcta: amazonas
+estado: incorrecta
+
+puntaje final: 4 de 20
+================================
+
+=== resultado del cuestionario ===
+fecha: 2024-11-07 15:03:07
+ip cliente: 127.0.0.1
+
+pregunta 1: Cual es el nombre de la hermana de Jinx?
+respuesta del cliente: vi
+respuesta correcta: Vi
+estado: correcta
+
+pregunta 2: En que ciudad esta ubicada Zaun?
+respuesta del cliente: piltover
+respuesta correcta: Piltover
+estado: correcta
+
+pregunta 3: De que color es el pelo de Lux?
+respuesta del cliente: rubio
+respuesta correcta: rubio
+estado: correcta
+
+pregunta 4: Como se llama el arma de Jinx?
+respuesta del cliente: fdsf
+respuesta correcta: Pium Pium
+estado: incorrecta
+
+pregunta 5: Cual es la faccion opuesta a Noxus?
+respuesta del cliente: fdsfsd
+respuesta correcta: Demacia
+estado: incorrecta
+
+puntaje final: 12 de 20
+================================
