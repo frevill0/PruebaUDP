@@ -94,3 +94,99 @@ estado: incorrecta
 
 puntaje final: 12 de 20
 ================================
+
+=== resultado del cuestionario ===
+fecha: 2024-11-07 15:11:12
+ip cliente: 172.29.33.202
+
+pregunta 1: Cual es el nombre de la hermana de Jinx?
+respuesta del cliente: vi
+respuesta correcta: Vi
+estado: correcta
+
+pregunta 2: En que ciudad esta ubicada Zaun?
+respuesta del cliente: kj¤ahsd
+respuesta correcta: Piltover
+estado: incorrecta
+
+pregunta 3: De que color es el pelo de Lux?
+respuesta del cliente: jaksdb
+respuesta correcta: rubio
+estado: incorrecta
+
+pregunta 4: Como se llama el arma de Jinx?
+respuesta del cliente: }jabsd
+respuesta correcta: Pium Pium
+estado: incorrecta
+
+pregunta 5: Cual es la faccion opuesta a Noxus?
+respuesta del cliente: jasdb
+respuesta correcta: Demacia
+estado: incorrecta
+
+puntaje final: 4 de 20
+================================
+
+=== resultado del cuestionario ===
+fecha: 2024-11-07 15:12:25
+ip cliente: 172.29.33.202
+
+pregunta 1: Cual es el nombre de la hermana de Jinx?
+respuesta del cliente: vi
+respuesta correcta: Vi
+estado: correcta
+
+pregunta 2: En que ciudad esta ubicada Zaun?
+respuesta del cliente: alskjf
+respuesta correcta: Piltover
+estado: incorrecta
+
+pregunta 3: De que color es el pelo de Lux?
+respuesta del cliente: akns{dhf
+respuesta correcta: rubio
+estado: incorrecta
+
+pregunta 4: Como se llama el arma de Jinx?
+respuesta del cliente: oahndsf
+respuesta correcta: Pium Pium
+estado: incorrecta
+
+pregunta 5: Cual es la faccion opuesta a Noxus?
+respuesta del cliente: klajdhnfs
+respuesta correcta: Demacia
+estado: incorrecta
+
+puntaje final: 4 de 20
+================================
+
+=== resultado del cuestionario ===
+fecha: 2024-11-07 15:13:00
+ip cliente: 172.29.33.202
+
+pregunta 1: Cual es el nombre de la hermana de Jinx?
+respuesta del cliente: vi
+respuesta correcta: Vi
+estado: correcta
+
+pregunta 2: En que ciudad esta ubicada Zaun?
+respuesta del cliente: no se
+respuesta correcta: Piltover
+estado: incorrecta
+
+pregunta 3: De que color es el pelo de Lux?
+respuesta del cliente: no se
+respuesta correcta: rubio
+estado: incorrecta
+
+pregunta 4: Como se llama el arma de Jinx?
+respuesta del cliente: no se
+respuesta correcta: Pium Pium
+estado: incorrecta
+
+pregunta 5: Cual es la faccion opuesta a Noxus?
+respuesta del cliente: no se
+respuesta correcta: Demacia
+estado: incorrecta
+
+puntaje final: 4 de 20
+================================

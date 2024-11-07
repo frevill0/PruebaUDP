@@ -9,7 +9,7 @@ public class cliente {
     public static void main(String[] args) {
         try {
             DatagramSocket socket = new DatagramSocket();
-            InetAddress IP_servidor = InetAddress.getByName("localhost");
+            InetAddress IP_servidor = InetAddress.getByName("172.29.60.39");
             Scanner scanner = new Scanner(System.in);
 
             while (true) {
